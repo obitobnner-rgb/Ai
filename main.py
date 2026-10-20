@@ -2,7 +2,7 @@ import flet as ft
 import requests
 
 # Yahan apni OpenRouter API key aur Uncensored Model ka naam dalein
-API_KEY = "aapki_openrouter_api_key_yahan_dalein" 
+API_KEY = "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" 
 MODEL = "cognitivecomputations/dolphin-mixtral-8x7b" 
 
 def main(page: ft.Page):
